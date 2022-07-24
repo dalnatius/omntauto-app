@@ -13,4 +13,4 @@ jobs:
       - checkout
       - run:
           name: one
-          command: bash < .circleci/run.sh
+          command: bash < run.sh
